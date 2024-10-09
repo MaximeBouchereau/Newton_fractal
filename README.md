@@ -1,5 +1,7 @@
 Code Python créant des fractales de Newton en 1D & 2D. Ces fractales sont basées sur la méthode de Newton, très utilisée en résolution d'équation, et vont donner les bassins d'attraction associés à chaque solution.
 
+Exposé "5 Minutes Lebesgue" (Université de Rennes, Mai 2023)
+
 Sources:
 
 - Fractale de Newton: https://fr.wikipedia.org/wiki/Fractale_de_Newton
